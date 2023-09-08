@@ -7,5 +7,5 @@ The goal of this program is to implement four different recursive functions:
 3) A function which may compute a pow function and have log(n) time.
 4) Repeat a sentence a certain amount of times, indenting after each new line.
 
-####Language Used:
+#### Required Packages:
 C++
